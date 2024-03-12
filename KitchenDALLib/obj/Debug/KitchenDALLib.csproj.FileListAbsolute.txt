@@ -1,0 +1,6 @@
+C:\Users\GRV\source\repos\KitchenStoryProject\KitchenDALLib\bin\Debug\KitchenDALLib.dll
+C:\Users\GRV\source\repos\KitchenStoryProject\KitchenDALLib\bin\Debug\KitchenDALLib.pdb
+C:\Users\GRV\source\repos\KitchenStoryProject\KitchenDALLib\obj\Debug\KitchenDALLib.csproj.AssemblyReference.cache
+C:\Users\GRV\source\repos\KitchenStoryProject\KitchenDALLib\obj\Debug\KitchenDALLib.csproj.CoreCompileInputs.cache
+C:\Users\GRV\source\repos\KitchenStoryProject\KitchenDALLib\obj\Debug\KitchenDALLib.dll
+C:\Users\GRV\source\repos\KitchenStoryProject\KitchenDALLib\obj\Debug\KitchenDALLib.pdb
